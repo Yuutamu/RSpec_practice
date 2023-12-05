@@ -68,3 +68,9 @@ group :development do
   # gem "spring"
 end
 
+# System Spec
+group :test do
+  gem 'capybara'
+  gem 'selenium-webdriver'
+  gem 'webdriver'
+end
