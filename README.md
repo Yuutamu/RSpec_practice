@@ -1,24 +1,5 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## このファイルに関して
+GMO社内研修資料　以下を参考。（RailsTutorialの読み物ガイドで紹介されていた記事）
+https://github.com/pepabo/training/blob/master/workshop/rspec/rspec.md
