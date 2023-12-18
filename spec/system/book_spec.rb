@@ -16,3 +16,4 @@ RSpec.describe "books", type: :system do
     expect(page). to have_text("Author: Matz")
   end
 end
+# 最終行に空行
