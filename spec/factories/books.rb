@@ -13,4 +13,3 @@ FactoryBot.define do
 end
 
 # memo: 記法に違和感がある。rubyではなくjsonの記法かな？
-
